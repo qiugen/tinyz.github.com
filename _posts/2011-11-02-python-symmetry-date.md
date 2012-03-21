@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "世界完全对称日计算（python）"
-category: Python
+category:
+- Python
 tags: 
 - python
 - 对称日
