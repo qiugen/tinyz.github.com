@@ -3,7 +3,7 @@ layout: post
 title: "世界完全对称日计算（python）"
 category: Python
 tags: 
-- Python
+- python
 - 对称日
 ---
 
