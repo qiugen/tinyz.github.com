@@ -5,6 +5,8 @@ category:
 - 读书札记
 tags: 
 - facebook
+- SNS
+- 社交网络
 ---
 
 《facebook》效应
