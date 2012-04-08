@@ -45,7 +45,7 @@ Host second.github.com
 
 如果出现以下问题：
 
-> Bad owner or permissions on /home/tiny/.ssh/config 
+> Bad owner or permissions on /home/tiny/.ssh/config  
 > fatal: The remote end hung up unexpectedly
 
 运行：
