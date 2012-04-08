@@ -35,7 +35,7 @@ def symmetry_date(year_start, year_end):
  
 if __name__=='__main__':
     symmetry_date(2000,2099)
-{% endhighlight%}
+{% endhighlight %}
 
 输出结果：
 

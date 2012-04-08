@@ -43,5 +43,17 @@ Host second.github.com
 
 **注意**:非默认账户源应使用 git@secnod.github.com，默认账户使用：git@github.com
 
+如果出现以下问题：
+
+> Bad owner or permissions on /home/tiny/.ssh/config 
+> fatal: The remote end hung up unexpectedly
+
+运行：
+{% highlight bash %}
+sudo chmod 644 ～/.ssh/config 
+{% endhighlight%}
+
+
+
 #### Done
 
