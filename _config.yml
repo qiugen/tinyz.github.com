@@ -11,6 +11,7 @@ markdown: rdiscount
 # so be sure to set them if your theme uses them.
 #
 title : Chop wood, carry water~
+description: My blog
 tagline: 
 author :
   name : Tiny Z

@@ -1,0 +1,31 @@
+<div class="page-header">
+  <h1>{{ page.title }} <small>Supporting tagline</small></h1>
+</div>
+
+<div class="row">
+  <div class="span14">
+    {{ content }}
+  </div>
+</div>
+
+
+<div class="row">
+    <div class="span9" id="content">
+        <div class="post">
+            <div class="page-header">
+                <h1>
+                    {{ page.title }}
+                    <small></small>
+                </h1>
+                <h6>
+                    <span>{{ site.author.name }}</span>
+                    <span>发布时间：</span>
+                </h6>
+            </div>
+            <div class="entry-content"> {{ content }} </div>
+        </div>
+        <hr class="soften" />
+        
+    </div><!-- end #content-->
+
+</div>
