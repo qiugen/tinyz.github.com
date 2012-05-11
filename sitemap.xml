@@ -6,7 +6,7 @@ title : Sitemap
 {% for page in site.pages %}
 <url>
 <loc>{{site.production_url}}{{ page.url }}</loc>
-<lastmod>{{page.date|date: "%Y-%m-%d"}}</lastmod>
+<lastmod>{{site.time|date: "%Y-%m-%d"}}</lastmod>
 <changefreq>daily</changefreq>
 <priority>1.0</priority>
 </url>
