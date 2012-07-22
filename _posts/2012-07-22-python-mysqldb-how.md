@@ -8,6 +8,8 @@ tags:
 - python
 - mysqldb
 - mysql
+- TypeError
+- UnicodeEncodeError
 ---
 
 Python可以通过MySQLdb连接和操作mysql,在fedora中可以通过 sudo yum install MySQL-python 来安装，安装完成以后可以在python环境中 import MySQLdb 进行测试，安装和 import 都要注意大小写。
