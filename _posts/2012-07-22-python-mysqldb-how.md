@@ -11,7 +11,7 @@ tags:
 ---
 
 Python可以通过MySQLdb连接和操作mysql,在fedora中可以通过 sudo yum install MySQL-python 来安装，安装完成以后可以在python环境中 import MySQLdb 进行测试，安装和 import 都要注意大小写。
-{% highlight python %}
+{% highlight bash %}
 $:sudo yum search mysql|grep python
 MySQL-python.x86_64 : An interface to MySQL
 ...(省略)
