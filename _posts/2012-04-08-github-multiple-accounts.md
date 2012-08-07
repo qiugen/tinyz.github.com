@@ -2,7 +2,7 @@
 layout: post
 title: "Github 多账户使用"
 category:
-- Github
+- Tools
 tags: 
 - github
 - ssh

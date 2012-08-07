@@ -2,8 +2,7 @@
 layout: post
 title: Python 使用 MySQLdb 连接 mysql 及问题处理
 category: 
-- python
-- mysql
+- Database
 tags:
 - python
 - mysqldb
