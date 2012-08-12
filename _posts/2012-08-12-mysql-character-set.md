@@ -26,7 +26,7 @@ tags:
 	show create table table_name;
 
 + 修改数据表字符集:
-	alter table table_name default character set 'utf8';
+	alter table table_name default character set utf8;
 
 + 修改数据库字符集（但对已存在的表不影响）：
 	alter database database_name character set utf8 collate utf8_general_ci;
