@@ -2,7 +2,7 @@
 layout: post
 title: "人人的互联网时代——读娱乐致死和未来是湿的"
 category:
-- 读书札记
+- Reading notes
 tags:
 - 未来是湿的
 - 娱乐致死

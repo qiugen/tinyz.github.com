@@ -2,7 +2,7 @@
 layout: post
 title: "《Facebook 效应》书摘"
 category: 
-- 读书札记
+- Reading notes
 tags: 
 - facebook
 - SNS

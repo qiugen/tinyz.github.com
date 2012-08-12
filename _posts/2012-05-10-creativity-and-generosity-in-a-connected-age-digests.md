@@ -2,7 +2,7 @@
 layout: post
 title: 《认知盈余——自由时间的力量》读书笔记
 category: 
-- 读书札记
+- Reading notes
 tags:
 - 认知盈余
 - 自由时间
