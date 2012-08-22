@@ -11,14 +11,15 @@ markdown: rdiscount
 # so be sure to set them if your theme uses them.
 #
 title : Chop wood, carry water~
-description: My blog
+description: my blog about web, python, mysql, linux and my life on the way 
 tagline: 
 author :
-  name : Tiny Z
+  name : Tiny
   email : jicaizh@gmail.com
   github : tinyz
   twitter : LazyZi
   feedburner : tinyz
+  description: my blog about web, python, mysql, linux and my life on the way 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

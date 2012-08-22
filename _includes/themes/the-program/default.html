@@ -4,16 +4,17 @@
 <!--[if IE 8]>    <html class="no-js lt-ie9 ie" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width,initial-scale=1">
- <meta name="keywords" content="{% assign tags_list = page.tags %}{% for tag in tags_list %}{{ tag }},{% endfor %}" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="keywords" content="{% for tag in site.tags %} {{ tag[0] }},{% endfor %}" />
+<meta name="description" content="{{ site.description }}" />
 
 <meta name="baidu-site-verification" content="GLgyUPTygOjanJZd" />
 
 	<title>{{ page.title }}</title>
 	<meta name="author" content="{{ site.author.name }}">
 	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">
-	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
+	<link href="http://feeds.feedburner.com/{{ site.author.feedburner }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
 	
 
