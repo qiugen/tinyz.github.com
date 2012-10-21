@@ -111,8 +111,13 @@ for r in results:
 conn.close() 
 {% endhighlight %}
 
+####virtualenv 中 pip 安装 MySQL-python 错误：EnvironmentError: mysql_config not found
+在 fedora 下需要安装：mysql-devel，sudo yum install mysql-devel  
+其他发行版下面没有的话可以查找 libmysqlclient-dev  
+然后再运行 pip install MySQL-python
+
 ####错误：Python TypeError: not all arguments converted during string formatting
-当用python写insert语句时，出现以上错误：Python TypeError: not all arguments converted during string formatting
+当用python写insert语句时，出现以上错误：Python TypeError: not all arguments converted during string formatting  
 发生错误的原因在于格式化时placeholder的个数与实际参数的个数不匹配，需要检查参数的匹配问题。
 
 ####错误：UnicodeEncodeError: 'latin-1' codec can't encode characters in position 4-6: ordinal not in range(256)
@@ -121,6 +126,8 @@ conn.close()
 conn = MySQLdb.connect(MYSQL_HOST, MYSQL_USER, MYSQL_PASS,
                        MYSQL_DB, port=int(MYSQL_PORT), charset="utf8")
 {% endhighlight %}
+
+
 
 
 
