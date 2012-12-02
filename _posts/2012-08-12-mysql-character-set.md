@@ -2,7 +2,7 @@
 layout: post
 title: "MySQL创建数据库时指定编码很重要"
 category:
-- database 
+- Database 
 tags:
 - mysql
 - character
