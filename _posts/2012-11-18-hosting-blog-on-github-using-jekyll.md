@@ -39,7 +39,7 @@ $ sudo gem install rake
 	markdown: rdiscount
 
 
-Jekyll 通过 [Pygments](http://pygments.org/) 支持超过百种语言的代码高亮，标记非常简单，基本就是 {% highlight 语言名称 %}code here{% endhighlight %} 这种格式。安装：
+Jekyll 通过 [Pygments](http://pygments.org/) 支持超过百种语言的代码高亮，标记非常简单，基本就是 highlight+语言名称 这种格式。安装：
 	$ sudo yum install python-pygments
 
 #### 使用 Jekyll Bootstrap 来发布博客
