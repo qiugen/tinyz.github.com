@@ -72,7 +72,7 @@ rake theme:switch  # Switch between Jekyll-bootstrap themes.
 #### ERROR no access permission to `/' 错误处理
 在开始运行"jekyll --server" 启动本地服务的过程中，在终端出现了“ERROR no access permission to `/'” 错误。使用--no-auto查看jekyll启动过程，发现是 post 格式存在问题：highlight+语言高亮的时候，输入了不能识别的语言，导致本地 _site 中静态文件无法生成，出现了权限相关的错误。
 
-其中还容易出问题的就是 YAML 格式的头部，在 post 的过程中应当尤为注意，一旦出现相关的错误，可以通过运行 “Jekyll --no-auto” 命令在终端中查找错误。
+其中还容易出问题的就是 YAML 格式的头部，在 post 的过程中应当尤为注意，一旦出现相关的错误，可以通过运行 “jekyll --no-auto” 命令在终端中查找错误。
 
 
 
