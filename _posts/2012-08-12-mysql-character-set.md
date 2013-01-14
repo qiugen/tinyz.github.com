@@ -1,12 +1,8 @@
 ---
 layout: post
 title: "MySQL创建数据库时指定编码很重要"
-category:
-- Database 
-tags:
-- mysql
-- character
-- 编码
+category: Database 
+tags: [mysql, character, 编码]
 ---
 在使用MySQL数据库的过程中，好几次发现在插入数据时产生的错误是由编码的错误而导致的，于是再次记下来以作提醒：**MySQL创建数据库时指定编码很重要**
 

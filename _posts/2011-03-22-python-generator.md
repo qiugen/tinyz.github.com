@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Python 中的生成器（generator） "
-category:
-- Python
-tags:
-- python
-- generator
+category: Python
+tags: [python, generator]
 ---
 
 生成器是python中一个非常酷的特性，python 2.2中引入后在2.3变成了标准的一部分。它能够让你在许多情况下以一种优雅而又更低内存消耗的方式简化无界（无限）序列相关的操作。

@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Github 多账户使用"
-category:
-- Tools
-tags: 
-- github
-- ssh
+category: Tools
+tags: [github, ssh]
 ---
 github使用SSH与客户端连接。如果是单用户，生成密钥对后，将公钥保存至github，每次连接时SSH客户端发送本地私钥（默认~/.ssh/id_rsa）到服务端验证。单用户情况下，连接的服务器上保存的公钥和发送的私钥自然是配对的。但是如果是多用户在连接时，远程保存的是自己的公钥，但是SSH客户端依然发送默认私钥，那么这个验证自然无法通过。不过，要实现多帐号下的SSH key切换在客户端做一些配置即可。
 

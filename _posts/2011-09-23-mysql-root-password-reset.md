@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Mysql忘记root密码情况的处理"
-category: 
-- Database
-tags:
-- mysql
-- 密码
+category: Database
+tags: [mysql, 密码]
 ---
 有一段时间没有写博客，在纸上、电脑上零零散散的记了好多多西，其中一些怕是都找不见了，还是要养成及时整理和记录的好习惯。某天拿一台闲置的旧服务器来用，结果mysql密码却忘记了，所以网上查了一下，记录如下：
 停止mysql服务：

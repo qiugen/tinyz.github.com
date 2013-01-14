@@ -1,12 +1,8 @@
 ---
 layout: post
 title: "使用 Jekyll 在 Github 上发布静态站点"
-category: 
-- Jekyll
-tags:
-- github
-- Jekyll
-- blog
+category: Jekyll
+tags: [github, Jekyll, blog]
 ---
 [Jekyll](http://jekyllrb.com/) 是一个静态站点生成器，它会根据网页源码生成静态文件。默认情况下，Github pages 会使用 Jekyll 编译上传的非以下划线开始的文件夹中的文件。发布站点时先在本地编写符合 Jekyll 规范的网站源码，然后上传到github，由github生成并托管整个网站。
 

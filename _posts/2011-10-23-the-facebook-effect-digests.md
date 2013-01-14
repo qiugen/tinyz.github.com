@@ -1,12 +1,8 @@
 ---
 layout: post
 title: "《Facebook 效应》书摘"
-category: 
-- Reading notes
-tags: 
-- facebook
-- SNS
-- 社交网络
+category: Reading notes
+tags: [facebook, SNS, 社交网络]
 ---
 
 《facebook》效应

@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Python 测试之 doctest"
-category:
-- Python
-tags:
-- python
-- doctest
+category: Python
+tags: [python, doctest]
 ---
 
 Python 中的 doctest 模块为 python 程序提供了简便的测试方法，doctest 查找代码docstring 中类似 bash 等交互环境中的 python 执行会话（python session），然后将这些字符串作为输入和输出测试模块是否按照预期执行。doctest 主要用于以下三个方面:

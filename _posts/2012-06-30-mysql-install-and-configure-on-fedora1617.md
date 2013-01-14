@@ -1,11 +1,8 @@
 ---
 layout: post
 title: Fedora16/17 Mysql 安装及配置
-category: 
-- Linux
-tags:
-- Mysql
-- fedora
+category: Linux
+tags: [Mysql, fedora]
 ---
 ####1.安装 Mysql Server
 	# yum install mysql mysql-server

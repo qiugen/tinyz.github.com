@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "世界完全对称日计算（python）"
-category:
-- Python
-tags: 
-- python
-- 对称日
+category: Python
+tags: [python, 对称日]
 ---
 
 看到有人写的用 c++ 写的世界完全对称日（如今天：2011 1102）的计算，我也来用 python 玩玩

@@ -1,12 +1,8 @@
 ---
 layout: post
 title: "Gnome 中增加快捷方式"
-category: 
-- Linux
-tags: 
-- linux
-- gnome
-- 快捷方式
+category: Linux
+tags: [linux, gnome, 快捷方式]
 ---
 
 最近升级了 fedora 17 beta，也一直在虚拟机中玩 archlinux，或许有一天我会因为其不错的口碑而转向 archlinux。此外，无论是和 Gnome 2 还是 Unity 相比，我都很喜欢 Gnome 3，尤其是左上角的 hot corner 切换活动视图尤为喜欢（尽管好多人吐槽这个），让我偶尔忘我地在 window 下也往左上角挥一下鼠标，此外再就是清爽的颜色和简洁的界面了，其实从一开始接触使用 linux 时使用 ubuntu 就不是很喜欢它的配色，Unity 之后更是感觉它的 Dock 有些笨笨的。当然，这些都是萝卜白菜个人喜好的问题，作为用户我们都应该感谢开发者们为 linux、为改变这个世界作出的无私贡献，每每有程序更新，都离不开 geek 们背后的辛勤劳动。

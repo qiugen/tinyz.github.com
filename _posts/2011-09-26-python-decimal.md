@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Python十进制数学计算模块decimal"
-category:
-- Python
-tags: 
-- python
-- decimal
+category: Python
+tags: [python, decimal]
 ---
 
 ####Python提供了decimal模块用于十进制数学计算，它具有以下特点

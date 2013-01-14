@@ -1,13 +1,8 @@
 ---
 layout: post
 title: "RedHat/Fedora Linux 上使用 yum 安装 python pip 模块"
-category:
-- Linux
-tags:
-- redhat
-- fedora
-- pip
-- python
+category: Linux
+tags: [redhat, fedora, pip, python]
 ---
 
 pip是一个可以替代 easy_install 的安装和管理 python 软件包的工具，具体可以安装的 python 包可以在这里查看 Python Package Index。

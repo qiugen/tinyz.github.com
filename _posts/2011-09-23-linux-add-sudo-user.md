@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Linux 增加sudo用户"
-category: 
-- linux
-tags: 
-- linux
-- sudo
+category: linux
+tags: [linux, sudo]
 ---
 
 ####在Linux中增加sudo用户的步骤（以增加拥有sudo权限的用户tiny为例）：

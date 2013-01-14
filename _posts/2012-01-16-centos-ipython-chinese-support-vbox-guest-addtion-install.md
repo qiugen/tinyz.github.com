@@ -1,12 +1,8 @@
 ---
 layout: post
 title: "Centos 6 安装中文支持、ipython 以及 virtualbox guestaddtion"
-category: 
-- Linux
-tags:
-- centos
-- python
-- virtualbox
+category: Linux
+tags: [centos, python, virtualbox]
 ---
 
 #### 安装中文支持（默认为英文）

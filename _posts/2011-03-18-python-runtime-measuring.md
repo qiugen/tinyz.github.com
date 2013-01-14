@@ -1,11 +1,8 @@
 ---
 layout: post
 title: 测量Python代码运行的时间
-category:
-- Python
-tags:
-- python
-- timeit
+category: Python
+tags: [python, timeit]
 ---
 
 Python 社区有句俗语： “python自己带着电池” ，别自己写计时框架。 Python 2.3 具备一个叫做 timeit 的完美计时工具可以测量python代码的运行时间。
