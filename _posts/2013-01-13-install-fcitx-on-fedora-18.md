@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "install fcitx on fedora 18"
+title: "在 fedora 18 上安装 fcitx 输入法"
 category: linux
 tags: [fedora, fcitx]
 ---
