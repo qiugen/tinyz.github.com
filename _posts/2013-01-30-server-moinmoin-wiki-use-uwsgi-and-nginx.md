@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "使用 Nginx 和 uwsgi 部署 MoinMoin"
-category: [Nginx, MoinMoin]
+category: MoinMoin
 tags: [Nginx, uwsgi, MoinMoin]
 ---
 
@@ -38,10 +38,9 @@ location /wiki {
  
 ####安装 MoinMoin
 
-下载源代码
-解压：$ tar xvfz moin-1.9.6.tar.gz
-
-安装：$ sudo python setup.py install
+1. 下载源代码
+2. 解压：$ tar xvfz moin-1.9.6.tar.gz
+3. 安装：$ sudo python setup.py install
 
 可以通过 python setup.py install --help 查看和安装相关的命令参数。如果想指定不同的数据（datafile）文件夹，可以通过 --install-data 来指定，如：--install-data = /var/www/moin；还可以通过 --prefix = PREFIX 指定不同的安装目录。
 
