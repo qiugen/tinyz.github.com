@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "在 fedora 18 上安装 fcitx 输入法"
-category: linux
+category: Linux
 tags: [fedora, fcitx]
 ---
 1. 安装 fcitx 输入法及配置工具: sudo yum install fcitx-pinyin fcitx-configtool

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linux 增加sudo用户"
-category: linux
+category: Linux
 tags: [linux, sudo]
 ---
 
