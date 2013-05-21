@@ -2,7 +2,7 @@
 layout: post
 title: "Unix时间戳与日期的相互转换"
 category: Database
-tags: [UNIX_TIMESTAMP，Date，MySQL]
+tags: [UNIX_TIMESTAMP,Date,MySQL]
 ---
 Unix时间戳（Unix timestamp）在日常使用很广泛，它是一个无符号整数，表示了自 '1970-01-01 00:00:00' UTC(Epoch) 以来的秒数。在日常应用中常使用Unix时间戳来存储时间以便在不同的时区都能通过转化显示正确的时间，避免了许多不必要的麻烦。因此了解 Unix Timestamp 和 Timestamp 之间的转化很有必要。
 
